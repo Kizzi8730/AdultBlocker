@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AdultBlocker (Minimal Starter)
 
 A small, ethical desktop app (Python + PyQt6) that helps users block adult websites by adding intentional friction to uninstall while fully respecting user agency.
@@ -149,7 +149,7 @@ Optional but recommended for distribution:
 
 ## Ethics
 This project is designed to help you follow through on your own choices. No shaming, no tracking, and you’re always in control. Turning off blocking has a short, intentional delay but it’s always available.
-=======
+
 # AdultBlocker
 Blocks adult websites
->>>>>>> 1039c3a3638065ae6a224accd292fd10de9b3b21
+
