@@ -1,0 +1,2 @@
+# AdultBlocker
+Blocks adult websites
